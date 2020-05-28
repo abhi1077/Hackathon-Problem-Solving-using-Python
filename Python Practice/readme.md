@@ -1,1 +1,1 @@
-Here you can find solutions of some codes of Python Practice on Hackerrank.
+Here one can find solutions of some codes of Python Practice on Hackerrank.
